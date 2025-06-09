@@ -1,0 +1,8 @@
+{
+  "workspace.checkThirdParty": false,
+  "diagnostics.globals": ["vim"],
+  "runtime.version": "LuaJIT",
+  "type": {
+    "checkTableShape": true
+  }
+}
